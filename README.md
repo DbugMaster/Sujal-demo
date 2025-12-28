@@ -1,4 +1,4 @@
 # Sujal-demo
 This is my first git repository
 <br>
-Owner - Sujal majhi
+Owner - Sujal (Your Name)
